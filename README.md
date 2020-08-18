@@ -1,3 +1,5 @@
+DEPRECATED in favor of [ZeroInflatedDistributions.jl](https://github.com/jkbest2/ZeroInflatedDistributions.jl)!
+
 # ZeroInflatedDistributions
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jkbest2.github.io/ZeroInflatedDistributions.jl/stable)
